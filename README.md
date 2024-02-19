@@ -1,3 +1,5 @@
+Data Visualization
+
 TerraClimate is a dataset of monthly climate and climatic water balance for global terrestrial surfaces from 1958-2020.
 
 Precipitaion data: http://thredds.northwestknowledge.net:8080/thredds/dodsC/agg_terraclimate_ppt_1958_CurrentYear_GLOBE.nc
